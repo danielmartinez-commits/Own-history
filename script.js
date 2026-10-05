@@ -1,37 +1,37 @@
 const tracks = [
   {
-    file: "music/iris.mp3",
-    title: "Iris — The Goo Goo Dolls",
+    file: "music/Sunsetz.mp3",
+    title: "Sunsetz — Cigarrets after sex",
     metaphor: "para las cosas que uno siente antes de aprender a decirlas."
   },
   {
-    file: "music/all-of-me.mp3",
-    title: "All of Me — John Legend",
+    file: "music/Her.mp3",
+    title: "Her — TKVE",
     metaphor: "para querer incluso aquello que uno no sabe explicar."
   },
   {
-    file: "music/dead-bed.mp3",
-    title: "dead bed — Powfu",
+    file: "music/Iris.mp3",
+    title: "Iris — The Goo Goo Dolls",
     metaphor: "para los pequeños futuros que alguna vez imaginamos sin darnos cuenta."
   },
   {
-    file: "music/say-you-wont-let-go.mp3",
-    title: "Say You Won't Let Go — James Arthur",
+    file: "music/Lalaland.mp3",
+    title: "La la land — Them",
     metaphor: "para cuando el tiempo parece una promesa que uno quisiera detener."
   },
   {
-    file: "music/loco-de-tu-forma-de-ser.mp3",
-    title: "Loco de tu forma de ser — Los Auténticos Decadentes",
+    file: "music/Take.mp3",
+    title: "Take on me — A-ha",
     metaphor: "para esas personas que llegan y desordenan un poco la gravedad."
   },
   {
-    file: "music/coraline.mp3",
-    title: "CORALINE — Måneskin",
+    file: "music/golden.mp3",
+    title: "Golden — TVKE",
     metaphor: "para las cosas que una sonrisa no siempre consigue esconder."
   },
   {
-    file: "music/piel-canela.mp3",
-    title: "Piel Canela",
+    file: "music/the night we met.mp3",
+    title: "The night we met",
     metaphor: "para cuando no hace falta encontrar una razón para admirar."
   }
 ];
