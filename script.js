@@ -30,7 +30,7 @@ const tracks = [
     metaphor: "para las cosas que una sonrisa no siempre consigue esconder."
   },
   {
-    file: "music/the night we met.mp3",
+    file: "music/the-night-we-met.mp3",
     title: "The night we met",
     metaphor: "para cuando no hace falta encontrar una razón para admirar."
   }
